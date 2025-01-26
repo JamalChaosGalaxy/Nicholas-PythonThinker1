@@ -52,7 +52,7 @@ time = time * 60
 
 while (time != 0):
     print ("seconds")
-    seconds = seconds - 1
+    time = time - 1
     time.sleep(1)
 
 print("You suck at maths! A- HAIYAAA")
