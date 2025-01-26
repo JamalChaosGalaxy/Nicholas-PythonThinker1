@@ -43,5 +43,5 @@ while(answer != "red"):
     answer = input("What is the color of an apple")
 
 print("Correct")
-score 
+score = score + 1
 
