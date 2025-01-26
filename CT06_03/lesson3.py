@@ -54,4 +54,4 @@ while (time != 0):
     seconds = seconds - 1
     time.sleep(1)
 
-print("You suck at maths! A- ")
+print("You suck at maths! A- HAIYAAA")
