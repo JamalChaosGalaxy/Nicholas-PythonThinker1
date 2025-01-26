@@ -47,4 +47,4 @@
 
 import time
 
-time = input("")
+time = input("How many minutes do you want to study ")
