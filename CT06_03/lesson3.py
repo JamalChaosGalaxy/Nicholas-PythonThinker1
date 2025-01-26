@@ -50,7 +50,7 @@ import time
 time = input("How many minutes do you want to study for?")
 time = time * 60
 
-while (time != 0):
+while ( time != 0):
     print ("seconds")
     time = time - 1
     time.sleep(1)
