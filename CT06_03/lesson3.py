@@ -47,3 +47,4 @@
 
 import time
 
+time = input()
