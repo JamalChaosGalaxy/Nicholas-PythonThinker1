@@ -27,7 +27,7 @@ while(answer != "orange"):
     answer = input("What is the color of the orange")
 
 print("Correct")
-score = 
+score + 1
 
 answer = input("What is the color of the sun")
 while(answer != "white"):
